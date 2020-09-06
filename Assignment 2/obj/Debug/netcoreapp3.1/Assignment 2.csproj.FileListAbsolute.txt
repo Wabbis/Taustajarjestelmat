@@ -1,0 +1,13 @@
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\Aku\ServerProgramming\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+C:\Users\Aku\ServerProgramming\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
